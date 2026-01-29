@@ -1,1 +1,1 @@
-# Trail-classes
+# Trail-classes (for beginners)
